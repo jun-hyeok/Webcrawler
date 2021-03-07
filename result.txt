@@ -1,0 +1,34 @@
+﻿0번 질문과 유사한 제목을 가진 질문목록
+2355   NaN
+1483   NaN
+1688   NaN
+4687   NaN
+1708   NaN
+6217   NaN
+2708   NaN
+184    NaN
+651    NaN
+5467   NaN
+Name: title, dtype: float641번 질문과 유사한 제목을 가진 질문목록
+3051   NaN
+8715   NaN
+2215   NaN
+5613   NaN
+7368   NaN
+750    NaN
+7037   NaN
+4250   NaN
+4653   NaN
+8307   NaN
+Name: title, dtype: float642번 질문과 유사한 제목을 가진 질문목록
+1887   NaN
+2872   NaN
+576    NaN
+5767   NaN
+6367   NaN
+4357   NaN
+4335   NaN
+6477   NaN
+1958   NaN
+2632   NaN
+Name: title, dtype: float64
